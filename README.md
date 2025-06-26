@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Wesley Ruan, atualmente sigo na carreira de desenvolvedor Back-end.</h2>
+<h2 align="left">Olá 👋! Me chamo Wesley Ruan.</h2>
 
 ###
 
