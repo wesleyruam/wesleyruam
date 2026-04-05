@@ -61,20 +61,6 @@
 
 ---
 
-## 📌 Projeto em Destaque: DevBase - Análise de Segurança do App Top Run
-
-Um projeto freelance focado em identificar e documentar vulnerabilidades críticas em um aplicativo Android. As principais atividades incluíram:
-
-- 🔁 **Engenharia Reversa:** Análise detalhada do APK e bibliotecas nativas.
-- 📡 **Interceptação de Tráfego:** Monitoramento e análise de requisições HTTP/HTTPS.
-- ⚙️ **Instrumentação Dinâmica:** Aplicação de hooks em tempo de execução para manipular o comportamento do app.
-- 🔐 **Quebra de Criptografia:** Análise e replicação do algoritmo **AES/CBC** utilizado pelo aplicativo.
-- 🐍 **Automação:** Desenvolvimento de script em Python para reproduzir requisições da API de forma autônoma.
-- 🚨 **Descobertas:** Identificação de vulnerabilidades como **IDOR** (Insecure Direct Object References) e falhas de validação de dados.
-- 📝 **Resultado:** Entrega de um relatório técnico completo com a documentação das falhas e recomendações de mitigação.
-
----
-
 ## 📫 Contato & Redes
 
 <div align="left">
