@@ -57,7 +57,7 @@
 ### 🌐 Redes & Infraestrutura
 - **Protocolos:** TCP/IP, HTTP/S, DNS, VPN, Firewall.
 - **Sistemas:** Administração avançada de **Linux** e configuração de redes corporativas.
-- **Experiência:** Atuação em provedores de telecomunicação (GCNET e Acessoline).
+- **Experiência:** Atuação em provedores de telecomunicação (GGNET e Acessoline).
 
 ---
 
