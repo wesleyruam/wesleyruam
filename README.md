@@ -34,7 +34,6 @@
 ## 🚀 Sobre Mim
 
 - 🎓 **Formação:** Cursando **Segurança Cibernética** (Conclusão prevista: 07/2025)
-- 💼 **Última Experiência:** Analista de Redes na **Acessoline Telecomunicações**
 - 🔍 **Áreas de Interesse:** Segurança Ofensiva (Red Team), Desenvolvimento Back-end, Pentest em Aplicações Web e Mobile.
 - 🌱 **Aprendizado Contínuo:** Sempre me aprofundando em Python para automação de segurança, desenvolvimento de APIs e técnicas de engenharia reversa.
 - 🎯 **Objetivo:** Atuar como Especialista em Segurança Cibernética ou Desenvolvedor Back-end, aplicando meus conhecimentos em redes e desenvolvimento para construir soluções robustas e proteger infraestruturas críticas.
@@ -69,9 +68,6 @@
   </a>
   <a href="https://www.linkedin.com/in/wesleyruam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/5549999378042" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
 
